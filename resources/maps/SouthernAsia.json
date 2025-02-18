@@ -1,0 +1,230 @@
+{
+    "name": "SouthernAsia",
+    "width": 2000,
+    "height": 1000,
+    "nations": [
+        {
+            "coordinates": [
+                415,
+                420            
+            ],
+            "name": "Iran 🇮🇷",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                290,
+                811
+            ],
+            "name": "Yemen 🇾🇪",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                330,
+                911
+            ],
+            "name": "Somalia 🇸🇴",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                240,
+                600
+            ],
+            "name": "Saudi Arabia 🇸🇦",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                440,
+                44
+            ],
+            "name": "Cyprus 🇨🇾",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                900,
+                650
+            ],
+            "name": "India 🇮🇳",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                950,
+                945
+            ],
+            "name": "Sri Lanka 🇱🇰",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                75,
+                504
+            ],
+            "name": "Israel 🇮🇱",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                64,
+                512
+            ],
+            "name": "Palestine 🇵🇸",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                95,
+                460
+            ],
+            "name": "Lebanon 🇱🇧",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                95,
+                328
+            ],
+            "name": "Turkey 🇹🇷",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                145,
+                420
+            ],
+            "name": "Syria 🇸🇾",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                240,
+                470
+            ],
+            "name": "Iraq 🇮🇶",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                475,
+                720
+            ],
+            "name": "Oman 🇴🇲",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                460,
+                654
+            ],
+            "name": "UAE 🇦🇪",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                385,
+                620
+            ],
+            "name": "Qatar 🇶🇦",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                580,
+                248
+            ],
+            "name": "Kazakhstan 🇰🇿", 
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                15,
+                514
+            ],
+            "name": "Egypt 🇪🇬",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                15,
+                700
+            ],
+            "name": "Sudan 🇸🇩",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                220,
+                875
+            ],
+            "name": "Djibouti 🇩🇯",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                235,
+                280
+            ],
+            "name": "Georgia 🇬🇪",
+            "strength": 1
+        }, 
+        {
+            "coordinates": [
+                690,
+                544
+            ],
+            "name": "Pakistan 🇵🇰",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                999,
+                571
+            ],
+            "name": "Nepal 🇳🇵",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                517,
+                324
+            ],
+            "name": "Uzbekistan 🇺🇿",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                120,
+                500
+            ],
+            "name": "Jordan 🇯🇴",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                310,
+                535
+            ],
+            "name": "Kuwait 🇰🇼",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                630,
+                440
+            ],
+            "name": "Afghanistan 🇦🇫",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                90,
+                180
+            ],
+            "name": "Ukraine 🇺🇦",
+            "strength": 1
+        },
+        {
